@@ -281,6 +281,30 @@
     <Reference Include="nunit.framework">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.10f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
+    <Reference Include="DesperateDevs.Logging">
+      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/DesperateDevs/DesperateDevs.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="DesperateDevs.Networking">
+      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/DesperateDevs/DesperateDevs.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="DesperateDevs.Serialization">
+      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/DesperateDevs/DesperateDevs.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="DesperateDevs.Utils">
+      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/DesperateDevs/DesperateDevs.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="Entitas.CodeGeneration.Attributes">
+      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/Entitas/Entitas.CodeGeneration.Attributes.dll</HintPath>
+    </Reference>
+    <Reference Include="Entitas">
+      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/Entitas/Entitas.dll</HintPath>
+    </Reference>
+    <Reference Include="Entitas.Unity">
+      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/Entitas/Entitas.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Entitas.VisualDebugging.Unity">
+      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/Entitas/Entitas.VisualDebugging.Unity.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Analytics.Editor">
       <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
@@ -289,30 +313,6 @@
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
-    </Reference>
-    <Reference Include="DesperateDevs.Utils">
-      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/DesperateDevs/DesperateDevs.Utils.dll</HintPath>
-    </Reference>
-    <Reference Include="Entitas">
-      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/Entitas/Entitas.dll</HintPath>
-    </Reference>
-    <Reference Include="Entitas.CodeGeneration.Attributes">
-      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/Entitas/Entitas.CodeGeneration.Attributes.dll</HintPath>
-    </Reference>
-    <Reference Include="DesperateDevs.Serialization">
-      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/DesperateDevs/DesperateDevs.Serialization.dll</HintPath>
-    </Reference>
-    <Reference Include="Entitas.Unity">
-      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/Entitas/Entitas.Unity.dll</HintPath>
-    </Reference>
-    <Reference Include="Entitas.VisualDebugging.Unity">
-      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/Entitas/Entitas.VisualDebugging.Unity.dll</HintPath>
-    </Reference>
-    <Reference Include="DesperateDevs.Networking">
-      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/DesperateDevs/DesperateDevs.Networking.dll</HintPath>
-    </Reference>
-    <Reference Include="DesperateDevs.Logging">
-      <HintPath>C:/Users/Sven/Desktop/Projects/Repos/PopBubbleTest/Programming_Test_Unity/Prog_Test/Assets/Libraries/DesperateDevs/DesperateDevs.Logging.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.10f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
